@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59835702785",
+    "firebase_url": "https://react-native-login-fb.firebaseio.com",
+    "project_id": "react-native-login-fb",
+    "storage_bucket": "react-native-login-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59835702785:android:032e7d5148dff97f6fea00",
+        "android_client_info": {
+          "package_name": "com.loginrnwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59835702785-i22v28t6nfjdkb8hrcshf1hb2rs1qkk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbqAzjOJGiIX15zngmN3moPUYtcWAsx7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59835702785-i22v28t6nfjdkb8hrcshf1hb2rs1qkk8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59835702785-fr5eh447oed10sp7r6crhiq314taensi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jvh.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
